@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;PingClient&apos; to &apos;PingClientBackUp&apos;&#x0D;&#x0A;- Original project: &apos;UDP_Pinger&apos;&#x0D;&#x0A;- Original element: &apos;PingClient&apos;&#x0D;&#x0A;- Renamed element: &apos;PingClientBackUp&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PingClient&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{PingClient.java[PingClient" matchStrategy="1" name="PingClientBackUp" qualified="false" references="true" similarDeclarations="false" stamp="1449559204007" textual="false" version="1.0"/>
+</session>
